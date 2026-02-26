@@ -8,7 +8,7 @@ BOLD    = "\033[1m"
 DIM     = "\033[2m"
 RED     = "\033[91m"
 
-# Custom palette via ANSI 256-color 
+# Custom palette via ANSI 256-color
 PINK     = "\033[38;5;211m"   # ≈ #FFA0B6 — title highlight
 LAVENDER = "\033[38;5;147m"   # ≈ #C1C1ED — banner border & text
 BLUSH    = "\033[38;5;217m"   # ≈ #FFD6E0 — result banner
@@ -160,16 +160,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
-def calculate(expression: str) -> float:
-    """
-    Evaluate the arithmetic expression using procedural logic.
-    
-    TODO:
-    - Implement addition, subtraction, multiplication, division, modulus
-    - Validate numeric input
-    - Prevent division by zero
-    - Handle invalid operations
-    """
-    pass
->>>>>>> d49a7d8917f640b98dd6ded8a848ef39b857f34d
