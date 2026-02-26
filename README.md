@@ -66,9 +66,5 @@ buildozer -v android debug
 bin/
 
 ## 👩🏻‍💻 Authors
-Banayad, Franchezca Natividad
-Escaño, Jose Jerico
-Esteban, Karl Joseph
-Frigillana, Niña Ysabelle
-Sanchez, Princess Mae
+Banayad, Escaño, Esteban, Frigillana, Lanuza, Sanchez
 
