@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ============================================================
 #  Smart Arithmetic Calculator — Procedural Paradigm
 #  Lab Activity 3: Applying Software Paradigms
@@ -160,3 +161,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+def calculate(expression: str) -> float:
+    """
+    Evaluate the arithmetic expression using procedural logic.
+    
+    TODO:
+    - Implement addition, subtraction, multiplication, division, modulus
+    - Validate numeric input
+    - Prevent division by zero
+    - Handle invalid operations
+    """
+    pass
+>>>>>>> d49a7d8917f640b98dd6ded8a848ef39b857f34d
